@@ -1,0 +1,3 @@
+<form action="https://web.tecnico.ulisboa.pt/~ist190593/ssof/csrf.html">
+<input type="submit" value="Click to win one year of free gas" />
+</form>
